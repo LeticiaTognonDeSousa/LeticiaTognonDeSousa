@@ -1,4 +1,4 @@
-## Olá! Eu sou Letícia!
+## Olá! Meu nome é Letícia!
 
 <div align="center">
   <a href="https://github.com/LeticiaTognonDeSousa">
